@@ -1,1 +1,0 @@
-suitable_for_greening.las filter=lfs diff=lfs merge=lfs -text
