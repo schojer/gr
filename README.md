@@ -1,7 +1,7 @@
 # gr
 FILE DESCRIPTION:
-1. The file "suitable_for_greening.las" represents the airborne laser scanning point cloud of roofs that are suitable for greening.
+1. The codes in folder "Visual_Studio_code" are used for detecting potential roof points from airborne laser scanning point clouds and measuring greening indicators and building height.
 
-2. The file "unsuitable_for_greening.las" represents the airborne laser scanning point cloud of roofs that are not suitable for greening.
+2. The codes in folder "building_classification" are used for predicting building age and category information from Google Maps.
 
-3. The file "indicators_and_priority.txt" represents the selected and measured greening indicators and the calculated roof greening priority based on these indicators.
+3. The codes in folder "Rstudio_code" are used for for numerical analysis.
