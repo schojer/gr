@@ -1,0 +1,1 @@
+Those codes are uesd for building classification, including age and category.
